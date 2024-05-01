@@ -10,3 +10,6 @@ Anadimos todos los requerimientos que se necesitan.
 
 Se levantan los contenedores y se crea un repositorio en docker hub.
 
+## DE ULTIMO CREAMOS CONEXCION A INSTANCIA DE EC2 
+
+Usamos los secrets keys en actions para toda la seguridad del documento 
